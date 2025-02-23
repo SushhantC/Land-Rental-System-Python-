@@ -1,0 +1,17 @@
+================================================================================
+                     INVOICE FOR RENTING LAND                                  
+                  TechnoPropertyNepal Pvt. Ltd.                                
+                     Invoice Date: July 23, 2024
+===============================================================================
+Name: eee
+Phone Number: 3333
+Date: July 23, 2024
+Kitta no: 101
+Location: Kathmandu
+Direction: North
+Aana: 4
+Price: 50000
+Total Amount: 200000
+Duration: 4 months
+Thank you for renting from TechnoPropertyNepal!
+==============================================================================
